@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/chentoni/GithubDemo/_apis/build/status/antoniachen.ContosoAir?branchName=master)](https://dev.azure.com/chentoni/GithubDemo/_build/latest?definitionId=21&branchName=master)
 
 # Microsoft.Github CI Demo
 
