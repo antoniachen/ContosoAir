@@ -90,3 +90,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 added a line to check feature flag 🦩
+check to see if the azure pipeline works 🚀
