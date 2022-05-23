@@ -3,7 +3,7 @@
 [![Build Status](https://dev.azure.com/chentoni/GithubDemo/_apis/build/status/antoniachen.ContosoAir?branchName=master)](https://dev.azure.com/chentoni/GithubDemo/_build/latest?definitionId=21&branchName=master)
 
 
- made a change here <flamingo>
+ made a change here 
   
 # Microsoft.Github CI Demo
 
